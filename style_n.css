@@ -1,0 +1,43 @@
+/*  */
+body {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-family: verdana;
+  font-size: 20px;
+  border-style: dotted;
+}
+
+table,th, td {
+  width: 50%;
+  border: 2px solid black;
+  border-collapse: collapse;
+  /*border-spacing: 2px;*/
+  /*caption-side: top/bottom/initial/inherit;*/
+  /*empty-cells: show/hide/initial/inherit;*/
+  /*table-layout: auto/fixed/initial/inherit ;*/
+}
+
+ul.a {
+  list-style-type: circle/*square,upper-roman,lower-alpha*/; 
+  /*list-style-image: url("some.gif");*/
+  list-style-position: inside/*outside,initial,inherit*/;
+}
+
+ul.b {
+  list-style-type: square;
+}
+
+ol.c {
+  list-style-type: upper-roman;
+}
+
+ol.d {
+  list-style-type: lower-alpha;
+}
