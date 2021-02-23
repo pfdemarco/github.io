@@ -21,7 +21,7 @@
 
 ### <p style="color:#FF9933;">Portfolio</p>
 <a href="https://pfdemarco.github.io/Portfolio/" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio-Patrick's%20Portfolio-yellowgreen">
+<img src="https://img.shields.io/badge/Portfolio-Patrick's%20Portfolio-blueviolet">
 </a>
 
 <body style="background-color:#404040">
