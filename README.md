@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/Resume-Patrick's%20Resume-orange">
 </a>
 
-### <p style="color:#FF9933;">Portfolio :memo::pencil:</p>
+### <p style="color:#FF9933;">Portfolio :memo:</p>
 <a href="https://pfdemarco.github.io/Portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Patrick's%20Portfolio-blueviolet">
 </a>
