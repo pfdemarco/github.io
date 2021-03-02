@@ -4,7 +4,7 @@
 
 ### <p style="text-align: center;color:#FFFFFF;"> Connect with me by clicking on the links below</p>
 
-### <p style="color:#FF0000;">Email Me</p>
+### <p style="color:#FF0000;">Email Me</p>:mailbox_with_mail:
 <a href="mailto:pfdemarco@hotmail.com">
 <img src="https://img.shields.io/badge/Email-Patrick's%20Email-red">
 </a>
