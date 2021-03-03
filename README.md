@@ -14,12 +14,12 @@
 <img src="https://img.shields.io/badge/LinkedIn-Patrick's%20LinkedIn-blue">
 </a>
 
-### <p style="color:#FF9933;">Resume :necktie:</p>
+### <p style="color:#FF9933;">Resume :memo:</p>
 <a href="https://pfdemarco.github.io/PatrickDeMarcoResume/Patrick F DeMarco Resume.docx" target="_blank">
 <img src="https://img.shields.io/badge/Resume-Patrick's%20Resume-orange">
 </a>
 
-### <p style="color:#FF9933;">Portfolio :memo:</p>
+### <p style="color:#FF9933;">Portfolio :necktie:</p>
 <a href="https://pfdemarco.github.io/Portfolio/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Patrick's%20Portfolio-blueviolet">
 </a>
