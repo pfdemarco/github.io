@@ -1,6 +1,6 @@
-# <strong><p style="text-align: center; color:#FFFFFF;">Hello, I'm Patrick DeMarco</p></strong>
+#  ___Strong emphasized text___Hello, I'm Patrick DeMarco
 
-## <p style="text-align: center;color:#FFFFFF;"> I am enrolled in the Full Stack Coding bootcamp at the University of New Hampshire. I will graduate in June of 2021. I am interested in coding and furthering my career as a full stack web developer. I would be interested in working on projects to gain further knowledge. Feel free to reach out to me as I refine my skills.</p>
+## `I am enrolled in the Full Stack Coding bootcamp at the University of New Hampshire. I will graduate in June of 2021. I am interested in coding and furthering my career as a full stack web developer. I would be interested in working on projects to gain further knowledge. Feel free to reach out to me as I refine my skills.`
 
 ### <p style="text-align: center;color:#FFFFFF;"> Connect with me by clicking on the links below</p>
 
