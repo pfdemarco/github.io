@@ -1,4 +1,4 @@
-#  ___Strong emphasized text___Hello, I'm Patrick DeMarco
+#  ___Hello, I'm Patrick DeMarco___
 
 ## `I am enrolled in the Full Stack Coding bootcamp at the University of New Hampshire. I will graduate in June of 2021. I am interested in coding and furthering my career as a full stack web developer. I would be interested in working on projects to gain further knowledge. Feel free to reach out to me as I refine my skills.`
 
