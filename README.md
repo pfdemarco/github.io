@@ -1,6 +1,6 @@
 #  ___Hello, I'm Patrick DeMarco___
   
-    June 2021 graduate of the Full Stack Coding bootcamp at the University of New Hampshire. 
+    Graduate of the Full Stack Coding bootcamp at the University of New Hampshire. 
     I am interested in coding and furthering my career as a full stack web developer. 
     I would be interested in working on projects to gain further knowledge. 
     Feel free to reach out to me as I refine my skills. 
